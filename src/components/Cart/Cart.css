@@ -1,0 +1,26 @@
+.cart h2 {
+    font-size: 30px;
+	text-align: center;
+    padding-bottom: 1rem;
+	margin-bottom: 2rem;
+    border-bottom: 1px solid #006f00;
+}
+
+.selected-food {
+	display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.selected-food span {
+    font-size: 1rem;
+    font-weight: 600;
+}
+.selected-food img {
+	height: 5rem;
+	object-fit: cover;
+}
+.selected-food h4 {
+    font-size: 1.5rem
+}
